@@ -12,6 +12,8 @@ public class AccessSpecifierDemo2 extends AccessSpecifierDemo {
 //		accessspecifierdemo2.defaultAccess();
 		accessspecifierdemo2.protectedAccess();
 
+//some changes
+
 	}
 
 }
